@@ -1,0 +1,17 @@
+{
+  "name": "com.aidancmays.gameplay-tags",
+  "version": "0.1.0",
+  "displayName": "Gameplay Tags",
+  "description": "Hierarchical gameplay tags as assets (Fire under Magic under Damage counts as all three) and a TagHolder component that counts tags added by several sources. The shared vocabulary for stats, items and abilities.",
+  "unity": "6000.3",
+  "documentationUrl": "",
+  "keywords": [
+    "tags",
+    "gameplay tags",
+    "rpg"
+  ],
+  "author": {
+    "name": "Aidan"
+  },
+  "dependencies": {}
+}
